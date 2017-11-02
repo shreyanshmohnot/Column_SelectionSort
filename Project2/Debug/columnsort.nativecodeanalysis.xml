@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\hp\google drive\algorithms design\project2\project2\</FILEPATH>
+      <FILENAME>columnsort.cpp</FILENAME>
+      <LINE>26</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6246</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'i' hides declaration of the same name in outer scope. For additional information, see previous declaration at line '16' of 'c:\users\hp\google drive\algorithms design\project2\project2\columnsort.cpp'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>11</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\hp\google drive\algorithms design\project2\project2\</FILEPATH>
+        <FILENAME>columnsort.cpp</FILENAME>
+        <LINE>16</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\hp\google drive\algorithms design\project2\project2\</FILEPATH>
+      <FILENAME>columnsort.cpp</FILENAME>
+      <LINE>43</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6246</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'i' hides declaration of the same name in outer scope. For additional information, see previous declaration at line '16' of 'c:\users\hp\google drive\algorithms design\project2\project2\columnsort.cpp'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>11</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\hp\google drive\algorithms design\project2\project2\</FILEPATH>
+        <FILENAME>columnsort.cpp</FILENAME>
+        <LINE>16</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\hp\google drive\algorithms design\project2\project2\</FILEPATH>
+      <FILENAME>columnsort.cpp</FILENAME>
+      <LINE>60</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6246</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'i' hides declaration of the same name in outer scope. For additional information, see previous declaration at line '16' of 'c:\users\hp\google drive\algorithms design\project2\project2\columnsort.cpp'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>11</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\hp\google drive\algorithms design\project2\project2\</FILEPATH>
+        <FILENAME>columnsort.cpp</FILENAME>
+        <LINE>16</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\hp\google drive\algorithms design\project2\project2\</FILEPATH>
+      <FILENAME>columnsort.cpp</FILENAME>
+      <LINE>81</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6246</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'i' hides declaration of the same name in outer scope. For additional information, see previous declaration at line '16' of 'c:\users\hp\google drive\algorithms design\project2\project2\columnsort.cpp'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>11</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\hp\google drive\algorithms design\project2\project2\</FILEPATH>
+        <FILENAME>columnsort.cpp</FILENAME>
+        <LINE>16</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\hp\google drive\algorithms design\project2\project2\</FILEPATH>
+      <FILENAME>columnsort.cpp</FILENAME>
+      <LINE>87</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6246</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'i' hides declaration of the same name in outer scope. For additional information, see previous declaration at line '16' of 'c:\users\hp\google drive\algorithms design\project2\project2\columnsort.cpp'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>11</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\hp\google drive\algorithms design\project2\project2\</FILEPATH>
+        <FILENAME>columnsort.cpp</FILENAME>
+        <LINE>16</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\hp\google drive\algorithms design\project2\project2\</FILEPATH>
+      <FILENAME>columnsort.cpp</FILENAME>
+      <LINE>103</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6246</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'i' hides declaration of the same name in outer scope. For additional information, see previous declaration at line '16' of 'c:\users\hp\google drive\algorithms design\project2\project2\columnsort.cpp'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>11</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\hp\google drive\algorithms design\project2\project2\</FILEPATH>
+        <FILENAME>columnsort.cpp</FILENAME>
+        <LINE>16</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\hp\google drive\algorithms design\project2\project2\</FILEPATH>
+      <FILENAME>columnsort.cpp</FILENAME>
+      <LINE>124</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6246</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'i' hides declaration of the same name in outer scope. For additional information, see previous declaration at line '16' of 'c:\users\hp\google drive\algorithms design\project2\project2\columnsort.cpp'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>11</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\hp\google drive\algorithms design\project2\project2\</FILEPATH>
+        <FILENAME>columnsort.cpp</FILENAME>
+        <LINE>16</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\hp\google drive\algorithms design\project2\project2\</FILEPATH>
+      <FILENAME>columnsort.cpp</FILENAME>
+      <LINE>130</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6246</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'i' hides declaration of the same name in outer scope. For additional information, see previous declaration at line '16' of 'c:\users\hp\google drive\algorithms design\project2\project2\columnsort.cpp'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>11</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\hp\google drive\algorithms design\project2\project2\</FILEPATH>
+        <FILENAME>columnsort.cpp</FILENAME>
+        <LINE>16</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\hp\google drive\algorithms design\project2\project2\</FILEPATH>
+      <FILENAME>columnsort.cpp</FILENAME>
+      <LINE>146</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6246</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'i' hides declaration of the same name in outer scope. For additional information, see previous declaration at line '16' of 'c:\users\hp\google drive\algorithms design\project2\project2\columnsort.cpp'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>11</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\hp\google drive\algorithms design\project2\project2\</FILEPATH>
+        <FILENAME>columnsort.cpp</FILENAME>
+        <LINE>16</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\hp\google drive\algorithms design\project2\project2\</FILEPATH>
+      <FILENAME>columnsort.cpp</FILENAME>
+      <LINE>162</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6246</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'i' hides declaration of the same name in outer scope. For additional information, see previous declaration at line '16' of 'c:\users\hp\google drive\algorithms design\project2\project2\columnsort.cpp'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>11</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\hp\google drive\algorithms design\project2\project2\</FILEPATH>
+        <FILENAME>columnsort.cpp</FILENAME>
+        <LINE>16</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\hp\google drive\algorithms design\project2\project2\</FILEPATH>
+      <FILENAME>columnsort.cpp</FILENAME>
+      <LINE>185</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6246</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'i' hides declaration of the same name in outer scope. For additional information, see previous declaration at line '16' of 'c:\users\hp\google drive\algorithms design\project2\project2\columnsort.cpp'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>11</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\hp\google drive\algorithms design\project2\project2\</FILEPATH>
+        <FILENAME>columnsort.cpp</FILENAME>
+        <LINE>16</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\hp\google drive\algorithms design\project2\project2\</FILEPATH>
+      <FILENAME>columnsort.cpp</FILENAME>
+      <LINE>202</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6246</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'i' hides declaration of the same name in outer scope. For additional information, see previous declaration at line '16' of 'c:\users\hp\google drive\algorithms design\project2\project2\columnsort.cpp'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>11</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\hp\google drive\algorithms design\project2\project2\</FILEPATH>
+        <FILENAME>columnsort.cpp</FILENAME>
+        <LINE>16</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\hp\google drive\algorithms design\project2\project2\</FILEPATH>
+      <FILENAME>columnsort.cpp</FILENAME>
+      <LINE>221</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6246</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'i' hides declaration of the same name in outer scope. For additional information, see previous declaration at line '16' of 'c:\users\hp\google drive\algorithms design\project2\project2\columnsort.cpp'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>11</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\hp\google drive\algorithms design\project2\project2\</FILEPATH>
+        <FILENAME>columnsort.cpp</FILENAME>
+        <LINE>16</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\hp\google drive\algorithms design\project2\project2\</FILEPATH>
+      <FILENAME>columnsort.cpp</FILENAME>
+      <LINE>250</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6246</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'i' hides declaration of the same name in outer scope. For additional information, see previous declaration at line '16' of 'c:\users\hp\google drive\algorithms design\project2\project2\columnsort.cpp'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>11</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\hp\google drive\algorithms design\project2\project2\</FILEPATH>
+        <FILENAME>columnsort.cpp</FILENAME>
+        <LINE>16</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>
